@@ -1,10 +1,10 @@
-# Economic Indicators Influence on Interest Rates
+# Arnold Muscle and Exercise Educational Chatbot
 #### *Disclaimer* 
 This was a group project with contributions by Zeyu, Jesse and myself. Please visit the original repo at https://github.com/realJDD/Chat_Bot for the original commits and links to my team members pages.
 
 ## The Working App 
 
-![Interest Rate Prediction Demo](static/images/arnold_bot.gif)
+![Arnold ChatbotDemo](static/images/arnold_bot.gif)
 
 ### Background
 This project will introduce a chat bot which will interact with a user in a learning environment geared towards muscular identification and exerciese.
